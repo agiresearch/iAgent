@@ -1,6 +1,6 @@
-# iAgent: LLM Agent as a Shield between User and Recommender Systems
+# iAgent
 
-This repository provides the implementation for the paper **"iAgent: LLM Agent as a Shield between User and Recommender Systems"**.
+This repository provides the implementation for the paper **"iAgent"**.
 
 The traditional recommendation ecosystem primarily focuses on designing sophisticated models to enhance ranking performance, thereby increasing platform benefits. However, these models often neglect the importance of user-driven instructions and put users under the direct control of recommender systems.
 
