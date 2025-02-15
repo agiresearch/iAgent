@@ -61,6 +61,7 @@ export OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
 python main_iagent_mp.py --dataset "amazon" --domain "books" --agent_type "static"
 ```
 
+
 - in **InstructRec - Amazon Movietv Dataset**
 ```
 python main_iagent_mp.py --dataset "amazon" --domain "movietv" --agent_type "static"
