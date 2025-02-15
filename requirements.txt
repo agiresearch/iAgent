@@ -1,0 +1,13 @@
+json
+pandas==2.2.2
+numpy==1.26.4
+openai==1.43.0
+os
+warnings
+argparse
+concurrent.futures
+re
+logging
+pathlib
+time
+random
