@@ -1,6 +1,6 @@
 # iAgent
 
-This repository provides the implementation for the paper **"iAgent"**.
+This repository provides the implementation for ACL 2025 Findings paper "iAgent: LLM Agent as a Shield between User and Recommender Systems".
 
 The traditional recommendation ecosystem primarily focuses on designing sophisticated models to enhance ranking performance, thereby increasing platform benefits. However, these models often neglect the importance of user-driven instructions and put users under the direct control of recommender systems.
 
@@ -97,3 +97,13 @@ python main_iagent_mp.py --dataset "good" --domain "reads" --agent_type "dynamic
 ```
 python main_iagent_mp.py --dataset "yelp" --domain "yelp" --agent_type "dynamic"
 ```
+## Reference📚
+
+If you found the codes useful, please cite our paper.
+
+    @inproceedings{xu2025iagent,
+        title = {iAgent: LLM Agent as a Shield between User and Recommender Systems},
+        author = {Xu, Wujiang and Shi, Yunxiao and Liang, Zujie and Ning, Xuying and Mei, Kai and Wang, Kun and Zhu, Xi and Xu, Min and Zhang, Yongfeng},
+        booktitle = {Findings of the Association for Computational Linguistics ACL 2025},
+        year = {2025}
+    }
